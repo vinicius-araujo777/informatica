@@ -42,9 +42,23 @@
 
 
 # Questão 5
-# sp = 0
-# c = int(input("digite o valor do produto: (digite 0 para parar)"))
-# while c !=0:
-#     sp += int(input("digite o valor do produto"))
-# while c ==0:
-#     print (sp)
+#t = 0 
+#p100 = 0
+#pp = float(input("digite o valor dos produtos: (digite 0 para parar) "))
+#while pp != 0:
+#	t += pp
+#	if pp >= 100:
+#		p100 += 1
+#	pp = float(input("digite o valor dos produtos: (digite 0 para parar) "))
+#print(f"valor total: {t}")
+#print(f"total de produtos que passaram de 100: {p100} ")
+
+
+# Questão 6
+#f = int(input("digite um numero para que seja exibido seu fatorial: "))
+#acf = 1
+#cf = f
+#while cf >= 1:
+#	acf *= cf
+#	cf -= 1
+#print(f"{acf} é o fatoral do numero digitado")
